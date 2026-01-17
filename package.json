@@ -2,9 +2,9 @@
   "name": "huly-telegram-bot",
   "version": "1.0.0",
   "description": "Telegram Bot integrated with Huly workspace",
-  "main": "dist/index.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node dist/index.js",
+    "start": "node index.js",
     "dev": "ts-node src/index.ts",
     "build": "tsc"
   },
